@@ -48,6 +48,12 @@ According to the syllabus, the review scope includes:
 4. Return to textbooks and lecture notes for diagrams, derivations, and examples.
 5. Prepare a final cheat sheet for frequent definitions, phase diagrams, and heat-treatment processes.
 
+## Terms Glossary
+
+The repository keeps the earlier Chinese metallurgy terms glossary for quick review:
+
+- [`TERMS.md`](./TERMS.md)
+
 ## Repository Status
 
 - Current material count: 2 PDF files
