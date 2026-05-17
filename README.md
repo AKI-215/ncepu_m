@@ -18,6 +18,7 @@
 建议参考课程指定或常用教材，例如：
 
 - 胡赓祥、钱苗根：《金属学》
+- William D. Callister Jr.（小威廉）：《材料科学基础》/ *Materials Science and Engineering: An Introduction*
 
 出于版权合规考虑，本仓库不托管完整教材扫描件或来自第三方电子书站点的教材全文。请通过学校图书馆、出版社或其他合法渠道获取教材。
 

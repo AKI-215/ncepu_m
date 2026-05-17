@@ -18,6 +18,7 @@ This repository collects review materials, exam-syllabus information, and recall
 Suggested reference:
 
 - Gengxiang Hu and Miaogen Qian, *Metallurgy* / *Jin Shu Xue*
+- William D. Callister Jr., *Materials Science and Engineering: An Introduction* / Chinese editions commonly referred to as *Fundamentals of Materials Science*
 
 For copyright compliance, this repository does not host complete textbook scans or full-text copies from third-party e-book sites. Please obtain textbooks through the university library, publishers, or other legal channels.
 
